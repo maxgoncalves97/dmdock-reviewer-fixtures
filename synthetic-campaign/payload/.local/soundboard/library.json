@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "revision": 1,
+  "locations": [
+    {
+      "id": "77bebee7-82e8-4043-8b99-3990881c81b9",
+      "label": "Imported audio",
+      "path": "private-media/audio/imported",
+      "device": ""
+    }
+  ],
+  "tracks": [
+    {
+      "id": "b2d267e8-4eec-44d8-89a4-6917dcf1441c",
+      "locationId": "77bebee7-82e8-4043-8b99-3990881c81b9",
+      "file": "19d4a7e7-17ee-441f-a071-bee7665d56ca.wav",
+      "title": "Synthetic tone",
+      "category": "Sound Effects",
+      "volume": 0.5,
+      "loop": false
+    }
+  ]
+}

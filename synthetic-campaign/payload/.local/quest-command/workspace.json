@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "revision": 0,
+  "updatedAt": null,
+  "arcs": [],
+  "quests": [
+    {
+      "questId": "staging-quest",
+      "title": "Find the lantern",
+      "narrative": {
+        "boardActive": true,
+        "spotlight": "none",
+        "playerPriority": null,
+        "characterFocus": [],
+        "urgency": "unknown",
+        "urgencyVisibility": false,
+        "deadline": "",
+        "deadlineVisibility": false,
+        "nextAction": "",
+        "playerVisibility": "discovered",
+        "playerTitle": "",
+        "playerSummary": "Locate the lost lantern before nightfall",
+        "playerNextAction": "Speak with the keeper",
+        "playerMilestones": []
+      },
+      "progressMode": "milestone",
+      "status": "unknown",
+      "priority": null,
+      "objective": "Locate the lost lantern before nightfall",
+      "arcIds": [],
+      "locationIds": [],
+      "milestones": [],
+      "manualProgress": null,
+      "threat": null,
+      "notes": "",
+      "secrets": "",
+      "activities": []
+    }
+  ],
+  "relations": [],
+  "conditions": [],
+  "audit": []
+}

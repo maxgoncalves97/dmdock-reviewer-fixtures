@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "revision": 0,
+  "updatedAt": null,
+  "runs": [
+    {
+      "id": "8aa1965d-53ec-4f69-99ec-db10c31f8e81",
+      "title": "The Lantern Road - demo session",
+      "questIds": [
+        "staging-quest"
+      ],
+      "planId": "963913aa-bda5-499c-8ae4-c86e880daf19",
+      "status": "Prepared",
+      "activeSceneId": null,
+      "notes": "",
+      "scenes": [
+        {
+          "id": "dc753535-6ab1-4689-904d-521c9c7f6088",
+          "source": {
+            "kind": "scene",
+            "id": "576516c6-5a4a-4796-aa41-85b93964c9fd",
+            "planId": "963913aa-bda5-499c-8ae4-c86e880daf19"
+          },
+          "status": "Not Started"
+        },
+        {
+          "id": "c095e107-f372-4456-a4e6-309f4340feb5",
+          "source": {
+            "kind": "scene",
+            "id": "1f9dcf88-9ef0-4c2a-9962-03d2052ccd8d",
+            "planId": "963913aa-bda5-499c-8ae4-c86e880daf19"
+          },
+          "status": "Not Started"
+        }
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "963913aa-bda5-499c-8ae4-c86e880daf19",
+      "title": "The Lantern Road - demo session",
+      "notes": "Synthetic reviewer content. No real campaign records.",
+      "scenes": [
+        {
+          "board": {
+            "version": 1,
+            "cards": [
+              {
+                "id": "576516c6-5a4a-4796-aa41-85b93964c9fd-beats",
+                "kind": "beats",
+                "title": "Plot Beats & Clues",
+                "size": "medium"
+              },
+              {
+                "id": "576516c6-5a4a-4796-aa41-85b93964c9fd-environment",
+                "kind": "environment",
+                "title": "Environment & Atmosphere",
+                "size": "medium"
+              },
+              {
+                "id": "576516c6-5a4a-4796-aa41-85b93964c9fd-actors",
+                "kind": "actors",
+                "title": "NPCs & Characters",
+                "size": "medium"
+              },
+              {
+                "id": "576516c6-5a4a-4796-aa41-85b93964c9fd-secrets",
+                "kind": "secrets",
+                "title": "DM Secrets",
+                "size": "medium"
+              }
+            ]
+          },
+          "attachments": {
+            "audio": {
+              "transitionSeconds": 0,
+              "assignments": [
+                {
+                  "id": "07fab567-14aa-4fbb-b083-fa1a58baefc0",
+                  "trackId": "b2d267e8-4eec-44d8-89a4-6917dcf1441c",
+                  "volume": 0.1,
+                  "loop": false,
+                  "startOnActivate": false,
+                  "transition": "immediate"
+                }
+              ]
+            }
+          },
+          "id": "576516c6-5a4a-4796-aa41-85b93964c9fd",
+          "title": "Arrival at the gate",
+          "optional": false,
+          "objectives": "Welcome the travellers\nAsk the keeper about the missing lantern\nChoose a route",
+          "refs": [
+            "staging-npc",
+            "staging-player"
+          ],
+          "dialogue": "",
+          "description": "Evening rain glints on the old stone bridge.",
+          "clues": "",
+          "decisions": "",
+          "consequences": "",
+          "improvisation": "",
+          "encounters": "",
+          "rewards": "",
+          "postSession": "",
+          "secrets": "The keeper knows a safe path. Synthetic DM-only example."
+        },
+        {
+          "board": {
+            "version": 1,
+            "cards": [
+              {
+                "id": "1f9dcf88-9ef0-4c2a-9962-03d2052ccd8d-beats",
+                "kind": "beats",
+                "title": "Plot Beats & Clues",
+                "size": "medium"
+              },
+              {
+                "id": "1f9dcf88-9ef0-4c2a-9962-03d2052ccd8d-environment",
+                "kind": "environment",
+                "title": "Environment & Atmosphere",
+                "size": "medium"
+              },
+              {
+                "id": "1f9dcf88-9ef0-4c2a-9962-03d2052ccd8d-actors",
+                "kind": "actors",
+                "title": "NPCs & Characters",
+                "size": "medium"
+              },
+              {
+                "id": "1f9dcf88-9ef0-4c2a-9962-03d2052ccd8d-secrets",
+                "kind": "secrets",
+                "title": "DM Secrets",
+                "size": "medium"
+              }
+            ]
+          },
+          "attachments": {
+            "audio": {
+              "transitionSeconds": 0,
+              "assignments": [
+                {
+                  "id": "07fab567-14aa-4fbb-b083-fa1a58baefc0",
+                  "trackId": "b2d267e8-4eec-44d8-89a4-6917dcf1441c",
+                  "volume": 0.1,
+                  "loop": false,
+                  "startOnActivate": false,
+                  "transition": "immediate"
+                }
+              ]
+            }
+          },
+          "id": "1f9dcf88-9ef0-4c2a-9962-03d2052ccd8d",
+          "title": "The lantern room",
+          "optional": false,
+          "objectives": "Welcome the travellers\nAsk the keeper about the missing lantern\nChoose a route",
+          "refs": [
+            "staging-npc",
+            "staging-player"
+          ],
+          "dialogue": "",
+          "description": "A quiet room with an unanswered question.",
+          "clues": "",
+          "decisions": "",
+          "consequences": "",
+          "improvisation": "",
+          "encounters": "",
+          "rewards": "",
+          "postSession": "",
+          "secrets": "The keeper knows a safe path. Synthetic DM-only example."
+        }
+      ]
+    }
+  ],
+  "maps": [],
+  "markers": []
+}

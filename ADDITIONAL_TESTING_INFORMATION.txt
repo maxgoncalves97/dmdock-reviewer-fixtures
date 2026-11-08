@@ -1,0 +1,34 @@
+App display name: DM Dock
+Store product: CC Desktop Preview
+Support: DM Dock Support - dmdock.help@gmail.com
+
+No application login or private GitHub access is required.
+Synthetic reviewer files: [APPROVED_PUBLIC_REVIEWER_DOWNLOAD_URL]
+The download URL is pending owner approval and publication; replace this
+placeholder with the verified public URL before submitting these notes.
+
+After trusted Store installation, extract the reviewer folder locally. Launch
+DM Dock, select Browse verified export, choose synthetic-campaign (the directory
+containing manifest.json and payload), approve its independent workspace copy,
+then select Retry. This copies only the supplied synthetic campaign and retains
+an independent recovery copy; it does not require an existing campaign.
+
+Open Session Planner and Current Session, select The Lantern Road - demo session,
+then open NPCs, Quests and Encounters. Expected examples: Test Keeper, Test
+Adventurer, Find the lantern and Synthetic encounter.
+
+For the image, open Image Library > Manage Library > Advanced source settings.
+Use Reconnect artwork directory on the existing media source and select the
+reviewer-media folder. Do not use Reconnect saved folders or add a duplicate.
+The supplied test-art.png is deliberately a white pixel. Test Present, the
+player preview, Blackout and Start Player Display where available. In Soundboard,
+play/pause/stop Synthetic tone at low volume. No video fixture is included.
+
+runFullTrust is required for the normal-user Electron desktop host, native
+windows, local selected-workspace file access and authenticated loopback backend.
+The app does not require elevation, an administrator account, a remote shell,
+an external login or production synchronization enrollment for these tests.
+
+The exact extracted candidate passed guarded import/startup and media tests.
+This is not a claim of Windows-installed MSIX, WACK or Store certification
+acceptance. See README.md for file verification, limits and expected content.

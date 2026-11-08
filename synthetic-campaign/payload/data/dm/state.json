@@ -1,0 +1,30 @@
+{
+  "id": "staging-state",
+  "asOf": "2026-10-20",
+  "locationId": "staging-region-0",
+  "calendar": null,
+  "dayLabel": "Synthetic test day",
+  "timeLabel": "Test only; no real time advanced",
+  "level": 1,
+  "activeCharacterIds": [
+    "staging-player"
+  ],
+  "absentCharacterIds": [],
+  "latestSessionId": "staging-session",
+  "sourceId": "staging-source",
+  "section": "Fixture",
+  "ritual": {
+    "casterCount": 1,
+    "minimumLevel": 1,
+    "goldGp": 1,
+    "focus": "Synthetic focus",
+    "status": "proposed",
+    "sourceId": "staging-source"
+  },
+  "prep": [
+    "Synthetic staging, not session-ready."
+  ],
+  "unknowns": [
+    "No production data imported."
+  ]
+}

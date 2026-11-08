@@ -1,0 +1,72 @@
+{
+  "source": "Synthetic fixture",
+  "table": "Test table",
+  "draethOrigin": {
+    "text": "Synthetic placeholder; no campaign lore imported.",
+    "status": "confirmed",
+    "visibility": "dm-only",
+    "sourceId": "staging-source"
+  },
+  "regions": [
+    {
+      "entityId": "staging-region-0",
+      "name": "Test region 1",
+      "fields": [
+        {
+          "aspect": "Description",
+          "text": "Synthetic region only."
+        }
+      ]
+    },
+    {
+      "entityId": "staging-region-1",
+      "name": "Test region 2",
+      "fields": [
+        {
+          "aspect": "Description",
+          "text": "Synthetic region only."
+        }
+      ]
+    },
+    {
+      "entityId": "staging-region-2",
+      "name": "Test region 3",
+      "fields": [
+        {
+          "aspect": "Description",
+          "text": "Synthetic region only."
+        }
+      ]
+    },
+    {
+      "entityId": "staging-region-3",
+      "name": "Test region 4",
+      "fields": [
+        {
+          "aspect": "Description",
+          "text": "Synthetic region only."
+        }
+      ]
+    },
+    {
+      "entityId": "staging-region-4",
+      "name": "Test region 5",
+      "fields": [
+        {
+          "aspect": "Description",
+          "text": "Synthetic region only."
+        }
+      ]
+    },
+    {
+      "entityId": "staging-region-5",
+      "name": "Test region 6",
+      "fields": [
+        {
+          "aspect": "Description",
+          "text": "Synthetic region only."
+        }
+      ]
+    }
+  ]
+}

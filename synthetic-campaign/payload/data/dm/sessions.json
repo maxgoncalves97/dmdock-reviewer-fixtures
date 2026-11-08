@@ -1,0 +1,12 @@
+[
+  {
+    "id": "staging-session",
+    "name": "Synthetic session",
+    "date": null,
+    "number": null,
+    "status": "proposed",
+    "sourceId": "staging-source",
+    "summary": "Not an occurred campaign event.",
+    "events": []
+  }
+]

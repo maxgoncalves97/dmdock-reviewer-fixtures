@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "syntheticOnly": true,
+  "files": [
+    {
+      "path": "test-art.png",
+      "size": 68,
+      "sha256": "716f825624421188f72ccff5fdb05a4d241a3ba81917388a08c9bb9bab2b5979"
+    }
+  ],
+  "binding": "External original companion; use reviewed root reconnection; no new catalogue ID",
+  "productionChanged": false
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "staging-source",
+    "title": "Synthetic staging source",
+    "path": "campaign-source/staging.md",
+    "authority": "working",
+    "content": "Generated test content only."
+  }
+]

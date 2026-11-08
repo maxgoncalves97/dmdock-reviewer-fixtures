@@ -1,0 +1,14 @@
+[
+  {
+    "entityId": "staging-npc",
+    "facts": [
+      {
+        "text": "SYNTHETIC_DM_SECRET_SENTINEL",
+        "status": "confirmed",
+        "sourceId": "staging-source",
+        "section": "Test",
+        "visibility": "dm-only"
+      }
+    ]
+  }
+]

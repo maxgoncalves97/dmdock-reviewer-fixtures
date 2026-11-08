@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "campaign": "noxumbra-private",
+  "id": "712a8eaa-0f6a-4f1c-92b0-a67bdd86db04",
+  "createdAt": "2026-11-08T12:21:19.467Z",
+  "codeVersion": "store-pilot-synthetic-v1",
+  "files": [
+    {
+      "path": ".local/broadcast/image-library.json",
+      "sha256": "03cb3420b9e3abc470c70b684b8cd3fe969e03d615330784edfb5cf69a9735fc",
+      "size": 444,
+      "mtimeMs": 1794140478381.255
+    },
+    {
+      "path": ".local/encounters/recovery/1-65c6b200-ad46-4357-80f7-14586d9258ea.json",
+      "sha256": "c19650a81bcdac4883b63357d24579f647237875b1827346ddcc459cdb80df32",
+      "size": 1390,
+      "mtimeMs": 1794140478684.228
+    },
+    {
+      "path": ".local/encounters/recovery/2-b8570bcc-2f48-43e7-ba0e-43e17905e3f6.json",
+      "sha256": "fc34508122a8dd273eca207b50ffdeed34b4d846b06c06d5aedcdb31b6838576",
+      "size": 1807,
+      "mtimeMs": 1794140478816.159
+    },
+    {
+      "path": ".local/encounters/workspace.json",
+      "sha256": "ea6bf716fc343ca257776c818fe3e9d55c89a1aa060e8057131cb2f06b7fc8c9",
+      "size": 4899,
+      "mtimeMs": 1794140478843.678
+    },
+    {
+      "path": ".local/factions/workspace.json",
+      "sha256": "a709af7baa8f12d3d71f264d7290a77eb547a2bd6fae040212853609db0c36f3",
+      "size": 152,
+      "mtimeMs": 1794140478529.9905
+    },
+    {
+      "path": ".local/preparation/workspace.json",
+      "sha256": "4111a00dc22653457a6a8dcc0412241ece55195c02c3ca985d89bb2b1e0c2f38",
+      "size": 5577,
+      "mtimeMs": 1794140478906.3416
+    },
+    {
+      "path": ".local/quest-command/workspace.json",
+      "sha256": "95526b67f92eed3f017da10edc122618cd3c2059a223612bfcd9635c61a8caf8",
+      "size": 1082,
+      "mtimeMs": 1794140478907.3413
+    },
+    {
+      "path": ".local/soundboard/library.json",
+      "sha256": "b1ae9edd9ca37990bbecc334cf406cf5c355b572a9d040169eb06736008240ad",
+      "size": 529,
+      "mtimeMs": 1794140478465.405
+    },
+    {
+      "path": "campaign-source/staging.md",
+      "sha256": "f10a6465893ed5c8b9ca4a44a867803710f1f4209feeaf1861be5e3b5e6a655d",
+      "size": 52,
+      "mtimeMs": 1794140478116.4392
+    },
+    {
+      "path": "data/dm/clocks.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "size": 3,
+      "mtimeMs": 1794140478115.439
+    },
+    {
+      "path": "data/dm/entities.json",
+      "sha256": "abdcd263a527767ee66604d6c61e4c88bc69a1183766e37f98f785310b85b691",
+      "size": 256,
+      "mtimeMs": 1794140478115.439
+    },
+    {
+      "path": "data/dm/regional-reference.json",
+      "sha256": "9f8a49fe588faaa91f461b3bd2e1879805b107a7da9e401e00471358794ae55c",
+      "size": 1495,
+      "mtimeMs": 1794140478116.4392
+    },
+    {
+      "path": "data/dm/sessions.json",
+      "sha256": "da8ee0c666063cbdbde4249c523907a6e548479de1b01f6b8ad6bd18f96c382a",
+      "size": 239,
+      "mtimeMs": 1794140478116.4392
+    },
+    {
+      "path": "data/dm/sources.json",
+      "sha256": "b936db0b34e8adeb504965180e27161ae09b9771a4406af51d4f608eec96b280",
+      "size": 197,
+      "mtimeMs": 1794140478115.439
+    },
+    {
+      "path": "data/dm/state.json",
+      "sha256": "ceaa0d49f676344e24f71165af3bf6c4a15389e0a6a1591f4dc98fbca21df6b5",
+      "size": 674,
+      "mtimeMs": 1794140478116.4392
+    },
+    {
+      "path": "data/player-candidates/entities.json",
+      "sha256": "63ba75f482d963318849d95f5fa9c5001c7195829e565702d3b6652e6fc34ee2",
+      "size": 2293,
+      "mtimeMs": 1794140478115.439
+    },
+    {
+      "path": "private-media/audio/imported/19d4a7e7-17ee-441f-a071-bee7665d56ca.wav",
+      "sha256": "ec33c7a5485dd83d7fa586304dfd12a026a8fe597d50051d194747f3afa8de1f",
+      "size": 32044,
+      "mtimeMs": 1794140478463.4036
+    }
+  ]
+}

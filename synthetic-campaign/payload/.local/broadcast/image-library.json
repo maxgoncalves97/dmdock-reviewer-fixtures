@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "revision": 1,
+  "roots": [
+    {
+      "id": "55680a97-4d70-49d0-8a5e-8bd494a329b9",
+      "label": "media"
+    }
+  ],
+  "images": [
+    {
+      "id": "d312539c-a59f-410a-aa85-1b717d06d05b",
+      "rootId": "55680a97-4d70-49d0-8a5e-8bd494a329b9",
+      "file": "test-art.png",
+      "missing": false
+    }
+  ],
+  "collection": [],
+  "lastPresented": null,
+  "displayMode": "cover",
+  "transition": "fade",
+  "duration": 1
+}

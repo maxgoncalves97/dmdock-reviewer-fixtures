@@ -1,0 +1,89 @@
+[
+  {
+    "id": "staging-region-0",
+    "kind": "location",
+    "name": "Test region 1",
+    "subtitle": "Synthetic staging fixture",
+    "summary": "Generated test content. No production campaign imported.",
+    "refs": [],
+    "facts": []
+  },
+  {
+    "id": "staging-region-1",
+    "kind": "location",
+    "name": "Test region 2",
+    "subtitle": "Synthetic staging fixture",
+    "summary": "Generated test content. No production campaign imported.",
+    "refs": [],
+    "facts": []
+  },
+  {
+    "id": "staging-region-2",
+    "kind": "location",
+    "name": "Test region 3",
+    "subtitle": "Synthetic staging fixture",
+    "summary": "Generated test content. No production campaign imported.",
+    "refs": [],
+    "facts": []
+  },
+  {
+    "id": "staging-region-3",
+    "kind": "location",
+    "name": "Test region 4",
+    "subtitle": "Synthetic staging fixture",
+    "summary": "Generated test content. No production campaign imported.",
+    "refs": [],
+    "facts": []
+  },
+  {
+    "id": "staging-region-4",
+    "kind": "location",
+    "name": "Test region 5",
+    "subtitle": "Synthetic staging fixture",
+    "summary": "Generated test content. No production campaign imported.",
+    "refs": [],
+    "facts": []
+  },
+  {
+    "id": "staging-region-5",
+    "kind": "location",
+    "name": "Test region 6",
+    "subtitle": "Synthetic staging fixture",
+    "summary": "Generated test content. No production campaign imported.",
+    "refs": [],
+    "facts": []
+  },
+  {
+    "id": "staging-player",
+    "kind": "character",
+    "name": "Test Adventurer",
+    "subtitle": "Synthetic staging fixture",
+    "summary": "Generated test content. No production campaign imported.",
+    "refs": [],
+    "facts": [],
+    "attributes": {
+      "class": "Fighter",
+      "hp": "20",
+      "maxHp": "20",
+      "ac": "15"
+    }
+  },
+  {
+    "id": "staging-npc",
+    "kind": "npc",
+    "name": "Test Keeper",
+    "subtitle": "Synthetic staging fixture",
+    "summary": "Generated test content. No production campaign imported.",
+    "refs": [],
+    "facts": []
+  },
+  {
+    "id": "staging-quest",
+    "kind": "quest",
+    "name": "Synthetic quest",
+    "subtitle": "Synthetic staging fixture",
+    "summary": "Generated test content. No production campaign imported.",
+    "refs": [],
+    "facts": []
+  }
+]

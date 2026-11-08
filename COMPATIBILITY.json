@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Synthetic Microsoft certification test files only",
+  "appDisplayName": "DM Dock",
+  "storeProduct": "CC Desktop Preview",
+  "storeId": "9PG123M47JK9",
+  "applicationVersion": "0.1.0-preview.11",
+  "packageVersion": "1.0.13.0",
+  "candidateSHA256": "9aa134a03cf609a13144eafc9ef78df217733c6ca9dfd6313d8e9d41fde6ae09",
+  "platform": "Windows 11 24H2/build 26100+ x64",
+  "exportFormat": 1,
+  "exportManifestSHA256": "6eb614601abb7c925f03479ec9f00247484d93a6f1d15e59a75892268923621c",
+  "exportPayloadFiles": 17,
+  "syntheticOnly": true,
+  "synchronizationEnrollmentRequired": false,
+  "applicationLoginRequired": false,
+  "installedMsixTested": false,
+  "supportEmail": "dmdock.help@gmail.com"
+}

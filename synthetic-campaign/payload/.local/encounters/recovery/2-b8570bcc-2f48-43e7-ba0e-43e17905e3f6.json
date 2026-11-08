@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "revision": 2,
+  "creatures": [
+    {
+      "id": "ce1a6430-1c5b-4af0-a141-cc2b114fec26",
+      "stats": {
+        "name": "Synthetic Sentinel",
+        "ruleset": "2024",
+        "type": "",
+        "subtype": "",
+        "size": "",
+        "alignment": "",
+        "cr": "",
+        "swarmType": "",
+        "tags": "",
+        "habitats": "",
+        "description": "",
+        "ac": 10,
+        "acSource": "",
+        "maxHp": 20,
+        "hitDice": "",
+        "speeds": "",
+        "abilities": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "saves": "",
+        "skills": "",
+        "senses": "",
+        "passivePerception": 10,
+        "languages": "",
+        "vulnerabilities": "",
+        "resistances": "",
+        "immunities": "",
+        "conditionImmunities": "",
+        "initiative": 0,
+        "traits": "",
+        "actions": "",
+        "bonusActions": "",
+        "reactions": "",
+        "legendaryActions": "",
+        "mythicActions": "",
+        "lairActions": "",
+        "gear": "",
+        "treasure": "",
+        "additional": "",
+        "rolls": [],
+        "imageId": "d312539c-a59f-410a-aa85-1b717d06d05b"
+      }
+    }
+  ],
+  "folders": [],
+  "templates": [
+    {
+      "id": "6c1115c4-ea62-4e73-ba0e-d215c1cbf26a",
+      "name": "Synthetic encounter",
+      "notes": "Disposable test fixture.",
+      "enemies": [
+        {
+          "id": "ebf3d331-b32e-40f6-86e8-2735589f70d1",
+          "creatureId": "ce1a6430-1c5b-4af0-a141-cc2b114fec26",
+          "quantity": 1,
+          "grouped": false,
+          "groupName": ""
+        }
+      ],
+      "sceneLinks": []
+    }
+  ],
+  "active": null,
+  "history": [],
+  "snapshots": [],
+  "receipts": []
+}

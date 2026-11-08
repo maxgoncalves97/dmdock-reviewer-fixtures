@@ -1,0 +1,17 @@
+Synthetic reviewer fixture and accompanying instructions only
+
+Prepared for owner review. Publication requires separate owner approval.
+Upon that approved publication, permission is granted, free of charge, to use,
+copy, modify and redistribute these synthetic test records, generated test tone,
+one-pixel test image and accompanying instructions for testing and demonstration.
+Retain this permission notice with redistributed copies.
+
+These files contain no real campaign records or original user artwork/audio.
+They are provided AS IS, without warranty or a guarantee of fitness for a
+particular purpose. Do not treat synthetic example events as real campaign canon.
+
+This permission does not cover the DM Dock application, installer, application
+source code, logos, third-party dependencies or any separately supplied media.
+No third-party tabletop publisher endorsement or trademark clearance is claimed.
+
+Support: DM Dock Support - dmdock.help@gmail.com
